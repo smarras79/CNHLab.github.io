@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Simone Marras
-    - name: Date of Birth
-      value: 19th January 1979
     - name: Languages
       value: English, Spanish, Italian
 
@@ -32,20 +30,12 @@
     - title: Assistant Professor of Fluid Mechanics
       institution: Department of Mechanical Engineering, New Jersey Institute of Technology
       year: 2017-now
-%      description:
-%        - Description 1.
-%        - Description 2.
-%        - title: Description 3.
-%          contents:
-%            - Sub-description 1.
-%            - Sub-description 2.
-
 - title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/smarras79/jexpresso79</a>
       year: 2022-now
-      description: Jexpresso: Toy software for the numerical solution of 1D, 2D, and 3D PDEs using spectral and spectral element methods on CPUs and GPUs. DISCLAIMER: this is WIP and we have barely started implementing this code.
+      description: Jexpresso Toy software for the numerical solution of 1D, 2D, and 3D PDEs using spectral and spectral element methods on CPUs and GPUs. DISCLAIMER - this is WIP and we have barely started implementing this code.
 - title: Honors and Awards
   type: time_table
   contents:
@@ -65,4 +55,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Fiction, Poetry, Food Exploration
+    - <u>Hobbies:</u> Fiction, Poetry, Food
